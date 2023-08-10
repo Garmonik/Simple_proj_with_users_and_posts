@@ -5,11 +5,15 @@ name = "pypi"
 
 [packages]
 django = "*"
+psycopg2 = "*"
 djangorestframework = "*"
+djangorestframework-simplejwt = "*"
 drf-spectacular = "*"
+aiosmtplib = "*"
+jinja2 = "*"
 psycopg2-binary = "*"
 rest-framework-simplejwt = "*"
-pillow = "*"
+Pillow = "*"
 
 [dev-packages]
 
